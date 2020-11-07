@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ngxadmin-dev-231224-authRole",
+      "UnauthRoleArn": "arn:aws:iam::175704135025:role/amplify-ngxadmin-dev-231224-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::175704135025:role/amplify-ngxadmin-dev-231224-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ngxadmin-dev-231224-deployment",
+      "UnauthRoleName": "amplify-ngxadmin-dev-231224-unauthRole",
+      "StackName": "amplify-ngxadmin-dev-231224",
+      "StackId": "arn:aws:cloudformation:us-east-1:175704135025:stack/amplify-ngxadmin-dev-231224/9d103fd0-2120-11eb-9e7d-0e4a688d3275",
+      "AmplifyAppId": "d1pv4oema0pgmj"
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ngxadmin-test-02512-authRole",
+      "UnauthRoleArn": "arn:aws:iam::175704135025:role/amplify-ngxadmin-test-02512-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::175704135025:role/amplify-ngxadmin-test-02512-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ngxadmin-test-02512-deployment",
+      "UnauthRoleName": "amplify-ngxadmin-test-02512-unauthRole",
+      "StackName": "amplify-ngxadmin-test-02512",
+      "StackId": "arn:aws:cloudformation:us-east-1:175704135025:stack/amplify-ngxadmin-test-02512/c7966f40-212a-11eb-9720-1221171ce649",
+      "AmplifyAppId": "d1pv4oema0pgmj"
+    }
+  }
+}
